@@ -1,8 +1,8 @@
 # Tanks
 
 Created by Samantha Parra<br>
-This is a multiplayer tank game.<br>
-Controls<br>
+This is a multiplayer tank game.<br><br>
+###Controls<br>
 ####Player 1<br>
 up arrow - move forward<br>
 left or right arrow - move side to side<br>

@@ -3,12 +3,12 @@
 Created by Samantha Parra<br>
 This is a multiplayer tank game.<br>
 Controls<br>
-*Player 1<br>
+#Player 1<br>
 up arrow - move forward<br>
 left or right arrow - move side to side<br>
 down arrow - move back<br>
 enter button - too shoot<br>
-*Player 2<br>
+#Player 2<br>
 w - move forward<br>
 a or d - move side to side<br>
 s- move back <br>

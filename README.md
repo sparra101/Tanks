@@ -1,14 +1,14 @@
 # Tanks
 
-created by Samantha Parra
+Created by Samantha Parra
 This is a multiplayer tank game.
 Controls
-Player 1
+*Player 1
 up - move forward
 left or right - move side to side
 down arrow - move back
 enter button - too shoot
-Player 2
+*Player 2
 w - move forward
 a or d - move side to side
 s- move back 

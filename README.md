@@ -4,8 +4,8 @@ Created by Samantha Parra
 This is a multiplayer tank game.
 Controls
 *Player 1
-up - move forward
-left or right - move side to side
+up arrow - move forward
+left or right arrow - move side to side
 down arrow - move back
 enter button - too shoot
 *Player 2
